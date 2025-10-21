@@ -3,6 +3,5 @@ Assignment repository for UNT CSCE1015
 ## EUID
 
 ## Favorite Linux Command
-$ls
-sa3037
 ls
+sa3037
